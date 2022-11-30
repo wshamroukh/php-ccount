@@ -1,3 +1,4 @@
+# Install CCount
 * Upload CCount files to your server (http://example.com/ccount).
 * Open install directory in your browser (http://example.com/ccount/install).
 * Follow the installation script steps.
