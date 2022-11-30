@@ -10,4 +10,4 @@ Credits go to https://www.phpjunkyard.com/php-click-counter.php
 * Open install directory in your browser (http://example.com/ccount/install).
 * Follow the installation script steps.
 * Delete the install directory.
-* Open admin directory (http://example.com/links/admin) to track new links, read instructions and edit settings.
+* Open admin directory (http://example.com/ccount/admin) to track new links, read instructions and edit settings.
